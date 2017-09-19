@@ -130,7 +130,7 @@ for vegetable in vegetables:
 cities = ['Tokyo','Moscow','Chicago','Barcelona']
 
 print (cities[0])
-print (cities[1:4])
+print (cities[1:])
 print (cities[-1])
 
 # 10) DICTIONARIES
